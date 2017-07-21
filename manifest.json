@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bill Splitter",
+  "description": "Ever split a food bill with friends? Make your life easier to determine costs!",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "image.png",
+   "default_popup": "index.html"
+  }
+}
